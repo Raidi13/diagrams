@@ -1,9 +1,70 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="0H0OT67QqvJCmZSCLow1">
-    <mxGraphModel>
+    <mxGraphModel dx="1400" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4rtAOC1mgqmLimRVdJra-1" value="192.168.1.4" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="55" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-4" value="" style="sketch=1;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.home;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="60" width="46.57" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-5" value="" style="sketch=1;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.laptop;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="48" height="28.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-6" value="isp" style="rhombus;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="4rtAOC1mgqmLimRVdJra-7" target="4rtAOC1mgqmLimRVdJra-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-7" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="4rtAOC1mgqmLimRVdJra-6" target="4rtAOC1mgqmLimRVdJra-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.705;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="4rtAOC1mgqmLimRVdJra-7" target="4rtAOC1mgqmLimRVdJra-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-17" value="192.178.2.1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-18" value="external ip" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="178" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-20" value="192.16831.0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-21" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="390" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-22" value="172.17.0.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="558" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-23" value="Docker 0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="346.57" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-24" value="172.17.0.1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="346.57" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="4rtAOC1mgqmLimRVdJra-23" target="4rtAOC1mgqmLimRVdJra-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-27" value="BRIGE NETWORK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="568" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-28" value="HOME NETWORK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="406.57" y="10" width="103.43" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rtAOC1mgqmLimRVdJra-29" value="DOCKER NETWORK&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="440" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
