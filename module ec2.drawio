@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="xe-17mbkCaJiM-Tjchvy">
-    <mxGraphModel>
+    <mxGraphModel dx="1324" dy="1007" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oYr5q1URo_Af-pwjgfU3-1" value="module-ec2-demo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-462" y="-10" width="120" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="oYr5q1URo_Af-pwjgfU3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-152" y="-10" width="120" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="oYr5q1URo_Af-pwjgfU3-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.code_file" vertex="1" parent="1">
+          <mxGeometry x="-126" y="77" width="59" height="60.2" as="geometry" />
+        </mxCell>
+        <mxCell id="oYr5q1URo_Af-pwjgfU3-4" value="terraform-aws-ec2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-131" y="9" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oYr5q1URo_Af-pwjgfU3-5" value="provider" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-443" y="101" width="85" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
