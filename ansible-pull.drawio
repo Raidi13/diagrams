@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="DEH1TDvZtipZMWzAMuD8">
+    <mxGraphModel dx="528" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q5Q6YRSt2s5HJ7eVRDwf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q5Q6YRSt2s5HJ7eVRDwf-1" target="q5Q6YRSt2s5HJ7eVRDwf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Q6YRSt2s5HJ7eVRDwf-1" value="Ansible server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Q6YRSt2s5HJ7eVRDwf-2" value="Node" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Q6YRSt2s5HJ7eVRDwf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Q6YRSt2s5HJ7eVRDwf-3" target="q5Q6YRSt2s5HJ7eVRDwf-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="140" />
+              <mxPoint x="165" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Q6YRSt2s5HJ7eVRDwf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q5Q6YRSt2s5HJ7eVRDwf-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q5Q6YRSt2s5HJ7eVRDwf-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Q6YRSt2s5HJ7eVRDwf-6" value="Node" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q5Q6YRSt2s5HJ7eVRDwf-10" value="we will install ansible&amp;nbsp;&lt;div&gt;pull ansible play book&amp;nbsp;&lt;/div&gt;&lt;div&gt;run in locally&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="13" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
