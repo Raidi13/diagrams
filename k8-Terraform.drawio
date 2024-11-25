@@ -80,7 +80,7 @@
           <mxGeometry x="420" y="136" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAdSaXPtCtztd2ttJc3T-50" value="" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.lock;fillColor=#005073;strokeColor=none;" parent="MAdSaXPtCtztd2ttJc3T-5" vertex="1">
-          <mxGeometry x="100.5" y="126" width="30" height="30" as="geometry" />
+          <mxGeometry x="100" y="160" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MAdSaXPtCtztd2ttJc3T-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" parent="MAdSaXPtCtztd2ttJc3T-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -98,10 +98,10 @@
           <mxGeometry x="288.9" y="140" width="46.1" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NPVtZ-30U368gHIfS6Fi-1" value="Public subnet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MAdSaXPtCtztd2ttJc3T-5">
-          <mxGeometry x="119" y="45" width="60" height="30" as="geometry" />
+          <mxGeometry x="108" y="40" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NPVtZ-30U368gHIfS6Fi-2" value="Private-subnet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MAdSaXPtCtztd2ttJc3T-5">
-          <mxGeometry x="335" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="335" y="280" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NPVtZ-30U368gHIfS6Fi-3" value="DB subnet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MAdSaXPtCtztd2ttJc3T-5">
           <mxGeometry x="560" y="60" width="60" height="30" as="geometry" />
