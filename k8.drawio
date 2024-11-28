@@ -87,13 +87,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fkq6zxbfCaFYS5j0ykK7-23" value="&lt;b&gt;eksctl&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="220" y="315" width="70" height="50" as="geometry" />
+          <mxGeometry x="220" y="315" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="fkq6zxbfCaFYS5j0ykK7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fkq6zxbfCaFYS5j0ykK7-25" target="fkq6zxbfCaFYS5j0ykK7-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fkq6zxbfCaFYS5j0ykK7-25" value="&lt;b&gt;kubectl&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="220" y="230" width="70" height="50" as="geometry" />
+          <mxGeometry x="230" y="240" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fkq6zxbfCaFYS5j0ykK7-26" value="&lt;b&gt;aws configure&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="80" y="315" width="110" height="60" as="geometry" />
