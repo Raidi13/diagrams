@@ -13,10 +13,9 @@
         <mxCell id="MAdSaXPtCtztd2ttJc3T-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="MAdSaXPtCtztd2ttJc3T-5" vertex="1">
           <mxGeometry x="530" y="40" width="120" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="MAdSaXPtCtztd2ttJc3T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" parent="MAdSaXPtCtztd2ttJc3T-5" source="MAdSaXPtCtztd2ttJc3T-4" target="MAdSaXPtCtztd2ttJc3T-3" edge="1">
+        <mxCell id="MAdSaXPtCtztd2ttJc3T-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;entryX=0.437;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MAdSaXPtCtztd2ttJc3T-5" source="MAdSaXPtCtztd2ttJc3T-4" target="7nfHV3ub4k7Z6sYTq1c4-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="260" />
               <mxPoint x="260" y="260" />
             </Array>
           </mxGeometry>
@@ -130,7 +129,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7nfHV3ub4k7Z6sYTq1c4-20" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.drds_distribute_relational_database_service;" vertex="1" parent="MAdSaXPtCtztd2ttJc3T-5">
-          <mxGeometry x="301.87" y="241.6" width="44.4" height="47.400000000000006" as="geometry" />
+          <mxGeometry x="310" y="241.6" width="44.4" height="47.400000000000006" as="geometry" />
         </mxCell>
         <mxCell id="7nfHV3ub4k7Z6sYTq1c4-22" value="Managed Node Group&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MAdSaXPtCtztd2ttJc3T-5">
           <mxGeometry x="321.88" y="330" width="101.25" height="30" as="geometry" />
