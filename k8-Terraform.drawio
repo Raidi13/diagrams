@@ -144,6 +144,9 @@
         <mxCell id="7nfHV3ub4k7Z6sYTq1c4-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
           <mxGeometry x="-290" y="71" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7nfHV3ub4k7Z6sYTq1c4-25" value="aws-dev-rk.online" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="41" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
