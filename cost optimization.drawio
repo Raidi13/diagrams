@@ -30,6 +30,9 @@
         <mxCell id="tfSLzY2xjKMm0Gt4QUIr-10" value="so&amp;nbsp; here api servere will communicate and send the alerts way SNS&amp;nbsp;&lt;div&gt;if any EBS volumes stiil they active or stale snapshots so you can delete the same ununsed&amp;nbsp;&lt;/div&gt;&lt;div&gt;with lamda functions oryou can trigger with cloud watch&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-25" y="328" width="510" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="tfSLzY2xjKMm0Gt4QUIr-13" value="lets take an example that&amp;nbsp; ebs voume are not been deleted or stale as developer was not removerd them&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1, write a lamda to delete the ebs snapshots and&amp;nbsp;&lt;/div&gt;&lt;div&gt;2,filter out the snapshots.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="418" width="580" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
