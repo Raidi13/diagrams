@@ -64,6 +64,9 @@
         <mxCell id="nydZAEuLb7kF1NuegCbR-14" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
           <mxGeometry x="70" y="55" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="nydZAEuLb7kF1NuegCbR-28" value="[Code Development] --&gt; [Pull Request] --&gt; [SonarCloud Scan] --&gt; [Dockerfile] --&gt; [Amazon ECR]&#xa;    ↑                                                                           ↓&#xa;    └---------------------------- [GitHub Actions] -----------------------------┘&#xa;                                      ↓&#xa;                              [Deployment (Depio)]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="220" width="740" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
