@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="GJGBsaqQXe3ZU5108EGd">
-    <mxGraphModel dx="1044" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1228" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,8 +60,8 @@
         </mxCell>
         <mxCell id="jIif11xaUqzvl8PaufJ1-22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="440" y="299.5" as="sourcePoint" />
-            <mxPoint x="540" y="299.5" as="targetPoint" />
+            <mxPoint x="425" y="299.41" as="sourcePoint" />
+            <mxPoint x="525" y="299.41" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -69,6 +69,9 @@
           <mxGeometry x="0.504" y="-1" relative="1" as="geometry">
             <mxPoint x="-30" y="19" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jIif11xaUqzvl8PaufJ1-24" value="&lt;div&gt;.Git → GitHub Actions (Trigger)&lt;/div&gt;&lt;div&gt;.Developers push code to Git (app or infra repo).&lt;/div&gt;&lt;div&gt;.GitHub Actions CI pipeline is triggered.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;.CI: Docker Build + Trivy Scan&lt;/div&gt;&lt;div&gt;.Docker image is built.&lt;/div&gt;&lt;div&gt;.trivy scans the image for vulnerabilities (Shift Left Security).&lt;/div&gt;&lt;div&gt;.Image is pushed to Docker Hub (can be replaced with ECR).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;.CD: GitHub Actions → ArgoCD&lt;/div&gt;&lt;div&gt;.GitHub Actions updates the image tag in the GitOps repo (usually in values.yaml or Helm chart).&lt;/div&gt;&lt;div&gt;.Commits the change to Git (infra repo) that ArgoCD watches.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;.ArgoCD → Kubernetes (Sync)&lt;/div&gt;&lt;div&gt;.ArgoCD detects the change in the GitOps repo.&lt;/div&gt;&lt;div&gt;.Syncs to the cluster → deploys new image/version.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="440" height="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
